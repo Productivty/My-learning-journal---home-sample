@@ -362,5 +362,21 @@ li:not(:last-child) {
     .article-one .date {
         font-size: 0.85rem;
     }
+
+    .footer {
+        padding: 0.9375em;
+      }
+    
+      .footer-content {
+        flex-direction: column;
+      }
+    
+      .footer h3 {
+        font-size: 1.25rem; /* Adjust the font size for smaller devices */
+      }
+    
+      .footer p {
+        font-size: 1rem; /* Adjust the font size for smaller devices */
+      }
 }
   
